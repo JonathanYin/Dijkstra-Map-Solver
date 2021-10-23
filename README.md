@@ -1,1 +1,1 @@
-# DijkstraMapSolver
+# Dijkstra Map Solver
